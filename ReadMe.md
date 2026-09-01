@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikunj Soni
 
-### 🚀 Full Stack Developer | Java | Spring Boot | DevOps | Cloud | Technical Trainer
+### 🚀 Full Stack Developer | Java | MERN | MEAN | Spring Boot | DevOps | Cloud | Selenium | Technical Trainer
 
 I am a **software developer and technical trainer** passionate about building applications, exploring modern technologies, and helping developers learn through practical, real-world examples.
 
@@ -253,9 +253,9 @@ I continuously work on learning, building and sharing practical examples across 
 
 ## 🤝 Let's Connect
 
-📧 **Email:** [Your Email](mailto:your-email@example.com)
+📧 **Email:** [Your Email](mailto:skillwithnikunj@gmail.com)
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me on LinkedIn]([LinkedIn](https://www.linkedin.com/in/nikunj-soni-22162a20b/))
 
 🐙 **GitHub:** [Nikunj-Java](https://github.com/Nikunj-Java)
 
