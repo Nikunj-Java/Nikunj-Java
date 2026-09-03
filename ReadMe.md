@@ -256,7 +256,7 @@ I continuously work on learning, building and sharing practical examples across 
 
 📧 **Email:** [Your Email](mailto:skillwithnikunj@gmail.com)
 
-💼 **LinkedIn:** [LinkedIn]([LinkedIn](https://www.linkedin.com/in/nikunj-soni-22162a20b/))
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nikunj-soni-22162a20b/)
 
 🐙 **GitHub:** [Nikunj-Java](https://github.com/Nikunj-Java)
 
